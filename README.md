@@ -1,5 +1,4 @@
-# JavaScriptBeginnerProjects
-basic Javascript Projects
+# basic HTML/CSS/Javascript Projects
 
 
 
