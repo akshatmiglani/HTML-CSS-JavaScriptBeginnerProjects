@@ -5,15 +5,13 @@
 
 #1 CSS SLIDESHOW
 
-Preview Pictures-
-
-
-<img width="1015" alt="Screenshot 2023-06-12 134900" src="https://github.com/akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects/assets/120178102/ba1d5aee-c524-48ed-9941-61f7e1388a25">
+Preview-
 
 
 
+![Untitled_video_-_Made_with_Clipchamp__6__AdobeExpress](https://github.com/akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects/assets/120178102/a631e843-b37e-483f-a1da-efbe1a6d020c)
 
-<img width="1015" alt="Screenshot 2023-06-12 134911" src="https://github.com/akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects/assets/120178102/7734e641-e79e-4413-9b1a-6c2a104b3dca">
+
 
 Main CSS Usaage:-
 
