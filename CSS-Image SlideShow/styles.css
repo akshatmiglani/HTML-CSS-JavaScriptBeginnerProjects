@@ -1,0 +1,41 @@
+body {
+    background-color:mediumslateblue;
+}
+
+
+h1 {
+    font-size: 40px;
+    line-height: 1;
+    letter-spacing: 1px;
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+    font-weight: bolder ;
+    font-family: sans-serif;
+}
+
+.main{
+    width: 70%;
+    height: 400px;
+    position: absolute;
+    left: 50%;
+    top:50%;
+    background-size: 100% 100%;
+    background-image: url('1.jpg');
+    transform: translate(-50%,-50%);
+    box-shadow: 1px 2px 10px 5px black;
+    animation: slider 9s infinite linear;
+
+}
+
+@keyframes slider {
+    0% {
+        background-image: url('1.jpg');
+    }
+    35%{
+        background-image: url('2.jpg');
+    }
+    75%{
+        background-image: url('3.jpg');
+    }
+}
