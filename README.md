@@ -33,6 +33,22 @@ Main CSS Usaage:-
     
     }
 
+
+#2 Frequntly Asked Questions(Template)
+Preview-
+
+![ezgif com-video-to-gif](https://github.com/akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects/assets/120178102/7cdbeac2-cefe-4f7d-9548-6607442b58fb)
+
+Main JS usage-
+ 
+    btn.forEach(function(i){
+        i.addEventListener("click",function(e){
+            const question=e.currentTarget.parentElement.parentElement;
+            question.classList.toggle("show-text");
+        });
+    
+    });
+    
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmiglani&theme=blue-green)
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects)
