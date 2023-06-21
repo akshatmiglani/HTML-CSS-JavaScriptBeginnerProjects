@@ -48,6 +48,22 @@ Main JS usage-
         });
     
     });
+
+#3 Comments Viewer
+Preview:-
+
+![ezgif com-video-to-gif](https://github.com/akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects/assets/120178102/f54336c9-be20-4702-a976-3b8e5a50a971)
+
+Main JS Usage:-
+
+    function show(){
+        console.log("LOADED");
+        const i=comments[currentItem];
+        img.src=i.img;
+        author.textContent=i.name;
+        info.textContent=i.text;
+    }
+
     
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmiglani&theme=blue-green)
 
