@@ -63,6 +63,14 @@ Main JS Usage:-
         author.textContent=i.name;
         info.textContent=i.text;
     }
+    
+#4 Calculator
+
+
+
+![Untitled video - Made with Clipchamp (8)](https://github.com/akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects/assets/120178102/63733a8b-080b-439f-a022-8d2d3ba37dc3)
+
+
 
     
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmiglani&theme=blue-green)
