@@ -45,3 +45,12 @@ form input.eq {
 form input.operator {
     color:red;
 }
+.akshat{
+    background-color: black;
+    color: white;
+    font-size: 35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    
+    padding: 2px;
+}
