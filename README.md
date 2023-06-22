@@ -67,9 +67,12 @@ Main JS Usage:-
 #4 Calculator
 
 
-
 ![Untitled video - Made with Clipchamp (8)](https://github.com/akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects/assets/120178102/63733a8b-080b-439f-a022-8d2d3ba37dc3)
 
+
+#5 Sketch-Board
+
+![Untitled video - Made with Clipchamp (9)](https://github.com/akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects/assets/120178102/6d09be9c-3319-4869-b345-2f91cd2ae57b)
 
 
     
