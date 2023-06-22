@@ -39,3 +39,14 @@ h1 {
         background-image: url('3.jpg');
     }
 }
+
+
+.akshat{
+    background-color: black;
+    color: white;
+    font-size: 35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    margin-top:750px;
+    padding: 2px;
+}
