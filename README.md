@@ -2,15 +2,18 @@
 
 
 
+DEMO:-
+
+https://akshatmiglani.github.io/HTML-CSS-JavaScriptBeginnerProjects/
+
+
 
 #1 CSS SLIDESHOW
 
 Preview-
 
 
-
-![Untitled_video_-_Made_with_Clipchamp__6__AdobeExpress](https://github.com/akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects/assets/120178102/a631e843-b37e-483f-a1da-efbe1a6d020c)
-
+![slider](https://github.com/akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects/assets/120178102/7303c245-ba43-4e89-a8c8-0400da32689b)
 
 
 Main CSS Usaage:-
@@ -37,7 +40,7 @@ Main CSS Usaage:-
 #2 Frequntly Asked Questions(Template)
 Preview-
 
-![ezgif com-video-to-gif](https://github.com/akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects/assets/120178102/7cdbeac2-cefe-4f7d-9548-6607442b58fb)
+![faq](https://github.com/akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects/assets/120178102/a0dcbcaa-f14f-45a0-a1e4-cf5270b6e8ae)
 
 Main JS usage-
  
@@ -52,7 +55,7 @@ Main JS usage-
 #3 Comments Viewer
 Preview:-
 
-![ezgif com-video-to-gif](https://github.com/akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects/assets/120178102/f54336c9-be20-4702-a976-3b8e5a50a971)
+![comment](https://github.com/akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects/assets/120178102/5438d202-d20b-494c-ab5a-bb34d30ea017)
 
 Main JS Usage:-
 
@@ -67,13 +70,13 @@ Main JS Usage:-
 #4 Calculator
 
 
-![Untitled video - Made with Clipchamp (8)](https://github.com/akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects/assets/120178102/63733a8b-080b-439f-a022-8d2d3ba37dc3)
+![calc](https://github.com/akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects/assets/120178102/7500bb92-bd78-4e9f-ad9c-40ebe4ea8e5c)
 
 
 #5 Sketch-Board
 
-![Untitled video - Made with Clipchamp (9)](https://github.com/akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects/assets/120178102/6d09be9c-3319-4869-b345-2f91cd2ae57b)
 
+![sketch](https://github.com/akshatmiglani/HTML-CSS-JavaScriptBeginnerProjects/assets/120178102/a6e19a7b-ee01-4050-9849-bfa48a552605)
 
     
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmiglani&theme=blue-green)
